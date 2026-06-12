@@ -16,15 +16,14 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-## About Me
-
-- 🔭 Currently building **[CodeX Live](https://github.com/Riteshmaurya07)** — an AI-powered real-time code review & collaboration platform (Final Year Project)
-- 💼 Interning as a MERN Stack Developer at **GNCIPL**
-- 🤖 Love building AI-integrated apps — from document Q&A to intelligent code analysis
-- 🌱 Deepening my knowledge in **real-time systems** (Socket.io) and **AI APIs**
-- 🔍 Open to **Full Stack / Backend Developer** roles — remote or in-office
-- 📫 Reach me at **LinkedIn** or **Twitter**
+- 🎓 Final Year B.Tech CSE Student at UIET Kanpur (CSJM University)
+- 💼 Ex-Full Stack Developer Intern at GNCIPL
+- 🚀 Building AI-powered applications and real-time systems
+- 🔥 Working on CodeX Live – AI Code Review & Collaboration Platform
+- 🌱 Exploring Generative AI, System Design, and Cloud Technologies
+- 🎯 Open to Full Stack, Backend, and AI Engineering roles
 
 ---
 
@@ -139,7 +138,11 @@ Real-time weather forecasting with React + Vite and OpenWeather API.
 </div>
 
 ---
+## 🏆 GitHub Achievements
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Riteshmaurya07&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 ## 🤝 Let's Connect
 
 I'm actively looking for **Full Stack / Backend Developer** internship or job opportunities.
