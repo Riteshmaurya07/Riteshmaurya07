@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=riteshmaurya07&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=riteshmaurya07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 # Hi 👋, I'm Ritesh Maurya
 
@@ -9,14 +9,14 @@
 
 🎓 **B.Tech CSE Graduate from Chhatrapati Shahu Ji Maharaj University**  
 💼 **Ex-Full Stack Developer Intern at GNCIPL**  
-🔥 **800+ DSA Problems Solved Across Platforms**  
-🚀 **Building AI-Powered Applications & Scalable Systems**
+🔥 **Solved 800+ DSA Problems Across Platforms**  
+🚀 **Building AI-Powered Applications and Scalable Systems**
 
 <p align="center">
   <a href="https://portfolio-ritesh-maurya.vercel.app/">Portfolio</a> •
   <a href="https://linkedin.com/in/riteshmauryarm07">LinkedIn</a> •
   <a href="https://leetcode.com/riteshmaurya07">LeetCode</a> •
-  <a href="https://auth.geeksforgeeks.org/user/riteshmaujt7x">GeeksforGeeks</a>
+  <a href="https://codolio.com/profile/riteshmaurya07">Codolio</a>
 </p>
 
 </div>
@@ -27,10 +27,12 @@
 
 - 🎓 B.Tech CSE Graduate from **Chhatrapati Shahu Ji Maharaj University**
 - 💼 Former Full Stack Developer Intern at **GNCIPL**
-- 🤖 Passionate about **Artificial Intelligence, Generative AI, and System Design**
+- 🔥 Solved **800+ DSA Problems** across coding platforms
+- 🏆 Earned **500 Days Badge** and **365 Days Badge** on LeetCode
+- 🎯 Participated in **25+ Coding Contests**
+- 🤖 Passionate about **Artificial Intelligence, Generative AI & System Design**
 - 🌱 Exploring **Cloud Computing and Scalable Architectures**
-- 🏆 Solved **800+ DSA problems** across coding platforms
-- 🎯 Open to **Full Stack, Backend, and AI Engineer roles**
+- 🎯 Open to **Full Stack, Backend and AI Engineer roles**
 
 ---
 
@@ -40,40 +42,42 @@
 
 > **Final Year Project**
 
-Real-time collaborative coding platform with AI-powered code analysis, live execution, GitHub integration, and multi-user collaboration.
+Real-time collaborative coding platform featuring AI-powered code reviews, live execution, GitHub integration, and multi-user collaboration.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • Socket.io • Tailwind CSS
+**Tech:** React • Node.js • Express • MongoDB • Socket.io • Tailwind CSS • AI APIs
 
-🔗 **Live Demo:** https://codexlive-three.vercel.app/  
+🔗 **Live:** https://codexlive-three.vercel.app/  
 🔗 **GitHub:** https://github.com/Riteshmaurya07/Code_X_Live
 
 ---
 
 ### 🎨 Matty — Interactive Graphic Design Tool
 
-Browser-based design and whiteboarding platform featuring cloud storage, templates, SaaS dashboard, and admin panel.
+Interactive graphic design and whiteboarding platform with cloud storage, community templates, SaaS dashboard, and admin panel.
 
-**Tech Stack:** React • Excalidraw • MongoDB • Cloudinary • Tailwind CSS
+**Tech:** React • Excalidraw • MongoDB • Cloudinary • Tailwind CSS
 
-🔗 **Live Demo:** https://matty-graphic-design-tool.vercel.app/
+🔗 **Live:** https://matty-graphic-design-tool.vercel.app/
 
 ---
 
 ### 📄 DocChat — AI Powered Document Q&A
 
-AI-powered document assistant that enables users to upload PDFs and interact with them using natural language.
+AI-powered document assistant enabling PDF conversations, summaries, and question answering.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • Gemini API
+**Tech:** React • Node.js • Express • MongoDB • Gemini API
 
 🔗 **GitHub:** https://github.com/Riteshmaurya07/DocChat
 
 ---
 
-## 📌 Other Projects
+### 🔐 CipherSQL Studio — AI Powered Secure SQL Workspace
 
-- 🔐 **CipherSQL Studio** — Secure SQL query tool with AI integration
-- 🌦 **Weather App** — Real-time weather forecasting using OpenWeather API
-- ♻️ **AI Garbage Classification System** — Waste classification using TensorFlow & MobileNetV2
+Secure SQL editor with AI integration and intelligent query execution.
+
+**Tech:** JavaScript • Node.js • SQL • AI
+
+🔗 **Live:** https://cipher-sql-studio-seven.vercel.app/
 
 ---
 
@@ -81,50 +85,53 @@ AI-powered document assistant that enables users to upload PDFs and interact wit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vercel,render,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vercel,render,vscode,linux&perline=10" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya07&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaurya07&layout=compact&theme=transparent&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaurya07&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 LeetCode Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/riteshmaurya07?theme=light&font=Karma&ext=heatmap" />
+<img src="https://streak-stats.demolab.com?user=Riteshmaurya07&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 💻 LeetCode Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Riteshmaurya07&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
+<img src="https://leetcard.jacoblin.cool/riteshmaurya07?theme=dark&font=Karma&ext=heatmap,contest" />
 
 </div>
 
 ---
 
-## 🌱 Current Focus
+## 🏅 Coding Achievements
 
-- 🚀 Building AI-powered developer tools
-- 🤖 Exploring LLMs and Generative AI applications
-- ☁️ Learning Cloud Technologies & System Design
-- 🌍 Contributing to Open Source Projects
+- 🏆 **500 Days Badge (2026)**
+- 🏆 **365 Days Badge (2025)**
+- 🏆 **Annual Badge 2025**
+- 🎯 **25+ Coding Contests Participated**
+- 💎 **250+ Days Coding Streak**
+- 🧮 **Math Achiever Badge**
+- 💻 **C++ Proficiency Badge**
 
 ---
 
@@ -133,12 +140,23 @@ AI-powered document assistant that enables users to upload PDFs and interact wit
 <div align="center">
 
 | Platform | Profile |
-|----------|---------|
+| :------: | :-----: |
 | 🟠 LeetCode | [riteshmaurya07](https://leetcode.com/riteshmaurya07) |
+| 🍜 CodeChef | [riteshmaurya07](https://www.codechef.com/users/riteshmaurya07) |
 | 🟢 GeeksforGeeks | [riteshmaujt7x](https://auth.geeksforgeeks.org/user/riteshmaujt7x) |
+| 🔵 Codolio | [riteshmaurya07](https://codolio.com/profile/riteshmaurya07) |
 | ⚫ GitHub | [Riteshmaurya07](https://github.com/Riteshmaurya07) |
 
 </div>
+
+---
+
+## 🌱 Current Focus
+
+- 🚀 Building AI-powered developer tools
+- 🤖 Exploring LLMs and Generative AI
+- ☁️ Learning Cloud Technologies & System Design
+- 🌍 Contributing to Open Source
 
 ---
 
@@ -147,16 +165,30 @@ AI-powered document assistant that enables users to upload PDFs and interact wit
 <div align="center">
 
 <a href="https://linkedin.com/in/riteshmauryarm07">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-ritesh-maurya.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:your-work.riteshmauryarm7@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://leetcode.com/riteshmaurya07">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
+<a href="https://www.codechef.com/users/riteshmaurya07">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -166,7 +198,7 @@ AI-powered document assistant that enables users to upload PDFs and interact wit
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
-*"Code. Build. Innovate. Repeat."*
+**Code. Build. Innovate. Repeat.**
 
 </div>
-```
+
