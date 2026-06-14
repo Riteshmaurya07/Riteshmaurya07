@@ -1,162 +1,173 @@
+
+```markdown
 <div align="center">
- 
-<img src="https://komarev.com/ghpvc/?username=riteshmaurya07&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
- 
-# Hi, I'm Ritesh Maurya 👋
- 
-### Full Stack MERN Developer · AI Enthusiast · B.Tech CSE Graduate
- 
-**UIET Kanpur (CSJM University)** · Ex-intern at **GNCIPL**
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-riteshmauryarm07-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshmauryarm07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=vercel&logoColor=white)](https://portfolio-ritesh-maurya.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-riteshmaurya07-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/riteshmaurya07)
-[![Twitter](https://img.shields.io/badge/Twitter-@riteshmaurya07-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/riteshmaurya07)
- 
+
+<img src="https://komarev.com/ghpvc/?username=riteshmaurya07&label=Profile%20Views&color=0e75b6&style=flat" />
+
+# Hi 👋, I'm Ritesh Maurya
+
+### Full Stack MERN Developer • AI Enthusiast • Open Source Contributor
+
+🎓 **B.Tech CSE Graduate from Chhatrapati Shahu Ji Maharaj University**  
+💼 **Ex-Full Stack Developer Intern at GNCIPL**  
+🔥 **800+ DSA Problems Solved Across Platforms**  
+🚀 **Building AI-Powered Applications & Scalable Systems**
+
+<p align="center">
+  <a href="https://portfolio-ritesh-maurya.vercel.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/riteshmauryarm07">LinkedIn</a> •
+  <a href="https://leetcode.com/riteshmaurya07">LeetCode</a> •
+  <a href="https://auth.geeksforgeeks.org/user/riteshmaujt7x">GeeksforGeeks</a>
+</p>
+
 </div>
- 
+
 ---
- 
-## 👨‍💻 About Me
- 
-- 🎓 B.Tech CSE Graduate from UIET Kanpur (CSJM University)
-- 💼 Ex-Full Stack Developer Intern at GNCIPL
-- 🚀 Building AI-powered applications and real-time systems
-- 🔥 Built **CodeX Live** – AI Code Review & Collaboration Platform (Final Year Project)
-- 🌱 Exploring Generative AI, System Design, and Cloud Technologies
-- 🎯 **Open to Full Stack, Backend, and AI Engineering roles**
-- 📬 Reach me at: [portfolio-ritesh-maurya.vercel.app](https://portfolio-ritesh-maurya.vercel.app/)
- 
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Graduate from **Chhatrapati Shahu Ji Maharaj University**
+- 💼 Former Full Stack Developer Intern at **GNCIPL**
+- 🤖 Passionate about **Artificial Intelligence, Generative AI, and System Design**
+- 🌱 Exploring **Cloud Computing and Scalable Architectures**
+- 🏆 Solved **800+ DSA problems** across coding platforms
+- 🎯 Open to **Full Stack, Backend, and AI Engineer roles**
+
 ---
- 
-## 🚀 Featured Projects
- 
-### ⚡ CodeX Live — AI Code Review & Collaboration Platform
-> *Final Year Project — ✅ Completed · Live: [codexlive-three.vercel.app](https://codexlive-three.vercel.app/)*
- 
-Real-time multi-user code editor with AI-powered bug detection, live execution, and GitHub integration.
- 
-**Highlights:** Multi-user rooms · AI code analysis · Live code execution · GitHub repo import + PR review
- 
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://codexlive-three.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Code_X_Live-181717?style=flat&logo=github&logoColor=white)](https://github.com/Riteshmaurya07/Code_X_Live)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
- 
+
+## 🌟 Featured Projects
+
+### 🧠 CodeX Live — AI Code Review & Collaboration Platform
+
+> **Final Year Project**
+
+Real-time collaborative coding platform with AI-powered code analysis, live execution, GitHub integration, and multi-user collaboration.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • Socket.io • Tailwind CSS
+
+🔗 **Live Demo:** https://codexlive-three.vercel.app/  
+🔗 **GitHub:** https://github.com/Riteshmaurya07/Code_X_Live
+
 ---
- 
+
 ### 🎨 Matty — Interactive Graphic Design Tool
-> *Live: [matty-graphic-design-tool.vercel.app](https://matty-graphic-design-tool.vercel.app/)*
- 
-Browser-based design and whiteboarding app with canvas editor, community templates, cloud storage, SaaS dashboard, and admin panel.
- 
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://matty-graphic-design-tool.vercel.app/)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
- 
+
+Browser-based design and whiteboarding platform featuring cloud storage, templates, SaaS dashboard, and admin panel.
+
+**Tech Stack:** React • Excalidraw • MongoDB • Cloudinary • Tailwind CSS
+
+🔗 **Live Demo:** https://matty-graphic-design-tool.vercel.app/
+
 ---
- 
+
 ### 📄 DocChat — AI Powered Document Q&A
-> *GitHub: [Riteshmaurya07/DocChat](https://github.com/Riteshmaurya07/DocChat)*
- 
-Upload PDFs and have AI-powered conversations with your documents. Features JWT auth, conversation history, and Gemini API integration.
- 
-[![Repo](https://img.shields.io/badge/GitHub-DocChat-181717?style=flat&logo=github&logoColor=white)](https://github.com/Riteshmaurya07/DocChat)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
- 
+
+AI-powered document assistant that enables users to upload PDFs and interact with them using natural language.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • Gemini API
+
+🔗 **GitHub:** https://github.com/Riteshmaurya07/DocChat
+
 ---
- 
-### 🔐 CipherSQL Studio — Secure SQL Query Tool
-> *Live: [cipher-sql-studio-seven.vercel.app](https://cipher-sql-studio-seven.vercel.app/)*
- 
-Web-based SQL editor with encryption-based query handling and a secure execution environment.
- 
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://cipher-sql-studio-seven.vercel.app/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
- 
+
+## 📌 Other Projects
+
+- 🔐 **CipherSQL Studio** — Secure SQL query tool with AI integration
+- 🌦 **Weather App** — Real-time weather forecasting using OpenWeather API
+- ♻️ **AI Garbage Classification System** — Waste classification using TensorFlow & MobileNetV2
+
 ---
- 
-### 🌦 Weather App
-> *Live: [weather-app-nu-orpin-25.vercel.app](https://weather-app-nu-orpin-25.vercel.app/)*
- 
-Real-time weather forecasting with React + Vite and OpenWeather API.
- 
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://weather-app-nu-orpin-25.vercel.app/)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
- 
----
- 
+
 ## 🛠 Tech Stack
- 
-**Frontend**
- 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
- 
-**Backend**
- 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
- 
-**Databases**
- 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
- 
-**Tools & Deployment**
- 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
- 
----
- 
-## 📊 GitHub Stats
- 
+
 <div align="center">
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshmaurya07&show_icons=true&locale=en&theme=default&hide_border=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=riteshmaurya07&show_icons=true&locale=en&layout=compact&hide_border=true)
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riteshmaurya07&hide_border=true)
- 
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vercel,render,vscode&perline=9" />
+
 </div>
- 
+
 ---
- 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaurya07&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 LeetCode Activity
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/riteshmaurya07?theme=light&font=Karma&ext=heatmap" />
+
+</div>
+
+---
+
 ## 🏆 GitHub Achievements
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Riteshmaurya07&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
- 
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Riteshmaurya07&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
+
+</div>
+
 ---
- 
-## 🤝 Let's Connect
- 
-I'm actively looking for **Full Stack / Backend / AI Engineer** internship or job opportunities.
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshmauryarm07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_my_work-111827?style=flat&logo=vercel&logoColor=white)](https://portfolio-ritesh-maurya.vercel.app/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-riteshmaujt7x-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/riteshmaujt7x)
+
+## 🌱 Current Focus
+
+- 🚀 Building AI-powered developer tools
+- 🤖 Exploring LLMs and Generative AI applications
+- ☁️ Learning Cloud Technologies & System Design
+- 🌍 Contributing to Open Source Projects
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| 🟠 LeetCode | [riteshmaurya07](https://leetcode.com/riteshmaurya07) |
+| 🟢 GeeksforGeeks | [riteshmaujt7x](https://auth.geeksforgeeks.org/user/riteshmaujt7x) |
+| ⚫ GitHub | [Riteshmaurya07](https://github.com/Riteshmaurya07) |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/riteshmauryarm07">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-ritesh-maurya.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:your-work.riteshmauryarm7@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+*"Code. Build. Innovate. Repeat."*
+
+</div>
+```
