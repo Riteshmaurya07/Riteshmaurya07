@@ -188,7 +188,7 @@ Secure SQL editor with AI integration and intelligent query execution.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
