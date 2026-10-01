@@ -1,204 +1,73 @@
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=riteshmaurya07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-# Hi 👋, I'm Ritesh Maurya
-
-### Full Stack MERN Developer • AI Enthusiast • Open Source Contributor
-
-🎓 **B.Tech CSE Graduate from Chhatrapati Shahu Ji Maharaj University**  
-💼 **Ex-Full Stack Developer Intern at GNCIPL**  
-🔥 **Solved 800+ DSA Problems Across Platforms**  
-🚀 **Building AI-Powered Applications and Scalable Systems**
-
-<p align="center">
-  <a href="https://portfolio-ritesh-maurya.vercel.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/riteshmauryarm07">LinkedIn</a> •
-  <a href="https://leetcode.com/riteshmaurya07">LeetCode</a> •
-  <a href="https://codolio.com/profile/riteshmaurya07">Codolio</a>
-</p>
+<img src="./assets/hero.svg?v=1" alt="Ritesh Maurya — Full Stack MERN Developer" width="100%" />
 
 </div>
 
----
+## About Me
 
-## 🚀 About Me
+<img src="./assets/about-life.svg?v=1" alt="About Ritesh Maurya and technical interests" width="100%" />
 
-- 🎓 B.Tech CSE Graduate from **Chhatrapati Shahu Ji Maharaj University**
-- 💼 Former Full Stack Developer Intern at **GNCIPL**
-- 🔥 Solved **800+ DSA Problems** across coding platforms
-- 🏆 Earned **500 Days Badge** and **365 Days Badge** on LeetCode
-- 🎯 Participated in **25+ Coding Contests**
-- 🤖 Passionate about **Artificial Intelligence, Generative AI & System Design**
-- 🌱 Exploring **Cloud Computing and Scalable Architectures**
-- 🎯 Open to **Full Stack, Backend and AI Engineer roles**
+## Technology Ecosystem
 
----
+<img src="./assets/stack.svg?v=1" alt="Technology ecosystem" width="100%" />
 
-## 🌟 Featured Projects
+## Developer Identity Dashboard
 
-### 🧠 CodeX Live — AI Code Review & Collaboration Platform
+<img src="./assets/id-dashboard.svg?v=1" alt="Developer identity and dashboard" width="100%" />
 
-> **Final Year Project**
+## Featured Projects
 
-Real-time collaborative coding platform featuring AI-powered code reviews, live execution, GitHub integration, and multi-user collaboration.
+| Project | Description | Technology | Links |
+|---|---|---|---|
+| **CodeXLive** | AI code review and real-time collaboration | MERN, Socket.io, Yjs, AI | [GitHub](https://github.com/Riteshmaurya07/Code_X_Live) · [Live](https://codexlive-three.vercel.app/) |
+| **Matty** | Interactive graphic design and whiteboarding | React, MongoDB, Cloudinary | [Live](https://matty-graphic-design-tool.vercel.app/) |
+| **DocChat** | AI-powered document Q&A | MERN, Gemini API | [GitHub](https://github.com/Riteshmaurya07/DocChat) |
+| **CipherSQLStudio** | Secure SQL workspace with AI-assisted hints | React, Node.js, PostgreSQL | [GitHub](https://github.com/Riteshmaurya07/CipherSQLStudio) · [Live](https://cipher-sql-studio-seven.vercel.app/) |
 
-**Tech:** React • Node.js • Express • MongoDB • Socket.io • Tailwind CSS • AI APIs
+## Coding Achievements
 
-🔗 **Live:** https://codexlive-three.vercel.app/  
-🔗 **GitHub:** https://github.com/Riteshmaurya07/Code_X_Live
+- **800+** DSA problems solved across coding platforms
+- LeetCode **500 Days** and **365 Days** badges
+- **25+** coding contests participated in
+- B.Tech in Computer Science and Engineering — Chhatrapati Shahu Ji Maharaj University, 2026 · **8.52 CGPA**
 
----
-
-### 🎨 Matty — Interactive Graphic Design Tool
-
-Interactive graphic design and whiteboarding platform with cloud storage, community templates, SaaS dashboard, and admin panel.
-
-**Tech:** React • Excalidraw • MongoDB • Cloudinary • Tailwind CSS
-
-🔗 **Live:** https://matty-graphic-design-tool.vercel.app/
-
----
-
-### 📄 DocChat — AI Powered Document Q&A
-
-AI-powered document assistant enabling PDF conversations, summaries, and question answering.
-
-**Tech:** React • Node.js • Express • MongoDB • Gemini API
-
-🔗 **GitHub:** https://github.com/Riteshmaurya07/DocChat
-
----
-
-### 🔐 CipherSQL Studio — AI Powered Secure SQL Workspace
-
-Secure SQL editor with AI integration and intelligent query execution.
-
-**Tech:** JavaScript • Node.js • SQL • AI
-
-🔗 **Live:** https://cipher-sql-studio-seven.vercel.app/
-
----
-
-## 🛠 Tech Stack
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vercel,render,vscode,linux&perline=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya07&show_icons=true&hide_border=true&bg_color=0d0e16&title_color=22d3ee&text_color=a1a1b5&icon_color=a78bfa" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaurya07&layout=compact&hide_border=true&bg_color=0d0e16&title_color=22d3ee&text_color=a1a1b5" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=riteshmaurya07&theme=dark&hide_border=true&background=0D0E16&ring=22D3EE&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya07&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaurya07&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Riteshmaurya07&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 💻 LeetCode Activity
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/riteshmaurya07?theme=dark&font=Karma&ext=heatmap,contest" />
-
-</div>
-
----
-
-## 🏅 Coding Achievements
-
-- 🏆 **500 Days Badge (2026)**
-- 🏆 **365 Days Badge (2025)**
-- 🏆 **Annual Badge 2025**
-- 🎯 **25+ Coding Contests Participated**
-- 💎 **250+ Days Coding Streak**
-- 🧮 **Math Achiever Badge**
-- 💻 **C++ Proficiency Badge**
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
+## Coding Profiles
 
 | Platform | Profile |
-| :------: | :-----: |
-| 🟠 LeetCode | [riteshmaurya07](https://leetcode.com/riteshmaurya07) |
-| 🍜 CodeChef | [riteshmaurya07](https://www.codechef.com/users/riteshmaurya07) |
-| 🟢 GeeksforGeeks | [riteshmaujt7x](https://auth.geeksforgeeks.org/user/riteshmaujt7x) |
-| 🔵 Codolio | [riteshmaurya07](https://codolio.com/profile/riteshmaurya07) |
-| ⚫ GitHub | [Riteshmaurya07](https://github.com/Riteshmaurya07) |
+|---|---|
+| LeetCode | [riteshmaurya07](https://leetcode.com/riteshmaurya07) |
+| CodeChef | [riteshmaurya07](https://www.codechef.com/users/riteshmaurya07) |
+| GeeksforGeeks | [riteshmaujt7x](https://www.geeksforgeeks.org/user/riteshmaujt7x/) |
+| Codolio | [riteshmaurya07](https://codolio.com/profile/riteshmaurya07) |
+| GitHub | [Riteshmaurya07](https://github.com/Riteshmaurya07) |
 
-</div>
+## Current Focus
 
----
+- AI-powered developer tools and LLM integration
+- Generative AI and practical AI applications
+- Cloud technologies and system design
+- Open source contributions
 
-## 🌱 Current Focus
+## Connect With Me
 
-- 🚀 Building AI-powered developer tools
-- 🤖 Exploring LLMs and Generative AI
-- ☁️ Learning Cloud Technologies & System Design
-- 🌍 Contributing to Open Source
-
----
-
-## 🤝 Connect With Me
+<img src="./assets/connect.svg?v=1" alt="Connect with Ritesh Maurya" width="100%" />
 
 <div align="center">
-
-<a href="https://linkedin.com/in/riteshmauryarm07">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-ritesh-maurya.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/riteshmaurya07">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/riteshmaurya07">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
 
 **Code. Build. Innovate. Repeat.**
 
-</div>
+Explore my repositories, and if you find something useful, consider leaving a star.
 
+</div>
