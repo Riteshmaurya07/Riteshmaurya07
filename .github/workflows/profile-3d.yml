@@ -1,3 +1,4 @@
+
 name: Generate 3D Contribution Profile
 
 on:
@@ -10,29 +11,48 @@ permissions:
 
 jobs:
   generate:
+    name: Generate contribution visualization
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate contribution profile
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: true
+
+      - name: Generate 3D contribution profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Publish generated SVGs
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Verify generated SVGs
         run: |
           set -euo pipefail
+
           if [ ! -d profile-3d-contrib ]; then
-            echo "Expected profile-3d-contrib output directory was not created."
-            find . -maxdepth 3 -type f -name '*.svg' -print
+            echo "Error: profile-3d-contrib directory not found"
             exit 1
           fi
+
+          if ! find profile-3d-contrib -maxdepth 1 -name '*.svg' -print -quit | grep -q .; then
+            echo "Error: No SVG files generated"
+            exit 1
+          fi
+
+          ls -lh profile-3d-contrib/
+
+      - name: Commit and push changes
+        run: |
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib
+
+          git add -A profile-3d-contrib/
+
           if git diff --cached --quiet; then
-            echo "No contribution visualization changes."
+            echo "No changes to commit."
           else
             git commit -m "chore: update 3D contribution profile"
             git push
