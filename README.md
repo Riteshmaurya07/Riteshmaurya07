@@ -43,6 +43,8 @@
 
 AI-powered developer tools · LLMs & Generative AI · Cloud & System Design · Open Source
 
+<img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
 <img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/connect.svg?v=1" alt="Connect with Ritesh" width="100%"/>
 
 **Code. Build. Innovate. Repeat.**
