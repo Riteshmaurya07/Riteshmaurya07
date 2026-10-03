@@ -6,7 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/stack.svg?v=1" alt="Technology ecosystem" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/id-dashboard.svg?v=1" alt="Developer identity dashboard" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/id-dashboard.svg?v=1" alt="Developer identity dashboard" width="100%"/> -->
+<a href="https://portfolio-ritesh-maurya.vercel.app/badge.html"><img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/id-dashboard.svg?v=5" alt="Click to open my interactive ID badge" width="100%"/></a>
 
 ## Featured Projects
 
