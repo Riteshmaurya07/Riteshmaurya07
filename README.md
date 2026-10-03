@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/hero.svg?v=1" alt="Ritesh Maurya — Full Stack MERN Developer" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/about-life.svg?v=1" alt="About Ritesh Maurya" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/about-life.svg?v=1" alt="About Ritesh Maurya" width="100%"/> -->
 
 <img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/stack.svg?v=1" alt="Technology ecosystem" width="100%"/>
 
@@ -23,11 +23,12 @@
 
 ## GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya07&show_icons=true&theme=midnight-purple&bg_color=0d0e16"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaurya07&layout=compact&theme=midnight-purple&bg_color=0d0e16"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya07&show_icons=true&theme=midnight-purple&bg_color=0d0e16"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaurya07&layout=compact&theme=midnight-purple&bg_color=0d0e16"/>
 
 <img src="https://streak-stats.demolab.com/?user=riteshmaurya07&theme=midnight-purple&background=0d0e16"/>
 
-<img src="https://leetcard.jacoblin.cool/riteshmaurya07?theme=dark&ext=heatmap"/>
+<!-- <img src="https://leetcard.jacoblin.cool/riteshmaurya07?theme=dark&ext=heatmap"/> -->
 
 ## Coding Profiles
 
@@ -43,7 +44,7 @@
 
 AI-powered developer tools · LLMs & Generative AI · Cloud & System Design · Open Source
 
-<img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/> -->
 
 <img src="https://raw.githubusercontent.com/Riteshmaurya07/Riteshmaurya07/main/assets/connect.svg?v=1" alt="Connect with Ritesh" width="100%"/>
 
